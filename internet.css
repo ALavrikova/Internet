@@ -1,0 +1,212 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#internet {
+	height: 60px;
+	width: 1300px;
+	color: #474747;
+	font-size: 50px;
+	padding-left: 30px;
+}
+
+#internet img {
+	display: inline-block;
+	vertical-align: top;
+	height:80px;
+	width: 80px;
+}
+
+#internet p {
+	display: inline-block;
+	vertical-align: top;
+}
+
+#worldwide {
+	width: 1300px;
+	background-color: #0f6aa5;
+	font-size: 40px;
+	color: white;
+	height: 55px;
+	padding-left: 30px;
+	padding-top: 15px;
+}
+
+/*#worldwide p {
+
+}*/
+
+.main {
+	display: inline-block;
+/*	border: 2px solid red;*/
+	vertical-align: top;
+	/*width: 49%;*/
+	background: #e5e5e5; /* For browsers that do not support gradients */
+	margin-right: -4px;
+}
+
+#so {
+	width: 280px;
+	height: 905px;
+	padding-left: 10px;
+}
+
+h3 {
+	line-height: 2.5;
+}
+
+p {
+	font-weight: bold;
+}
+
+button {
+	width: 250px;
+	height: 40px;
+	border-radius: 2px;
+	font-family: Century Gothic;
+	font-size: 14px;
+	background-color: #d6ba32;
+	color: white;
+}
+
+span {
+	color: #50bbcb;
+}
+
+#int {
+	color: #ee181e;
+}
+
+#button1 {
+	background-color: #4e93c4;
+	border-radius: 10px;
+}
+
+#button2 {
+	background-color: #ff6b00;
+	border-radius: 10px;
+}
+
+#so img {
+	height:400px;
+	width: 250px;
+}
+
+#dns {
+	width: 1040px;
+/*	height: 100px;
+	border: 2px solid yellow;*/
+}
+
+#dnsPic {
+	width: 600px;
+	height: 75px;
+	padding-top: 5px;
+	border-bottom: 2px solid #bbbbbb;
+}
+
+#dnsPic p {
+	vertical-align: bottom;
+	color: #116aa6
+}
+
+#dns img {
+	width: 40px;
+	height:40px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#dns p{
+	font-size: 20px;	
+	display: inline-block;
+}
+
+#right {
+	padding-left: 450px;
+}
+.contact {
+	display: inline-block;
+	vertical-align: top;
+/*	border: 2px solid green;*/
+	margin-right: -8px;
+}
+
+#dnsContact {
+	width: 430px;
+	height: 75px;
+	text-align: right;
+	border-bottom: 2px solid #bbbbbb;
+	padding-top: 5px;
+}
+
+#dnsContact img {
+	height: 60px;
+	width: 60px;
+}
+
+#contactP {
+	display: inline-block;
+	width: 200px;
+	vertical-align: top;
+}
+
+#contactP p {
+	font-size: 14px;
+	font-weight: 100;
+}
+
+#contactP p:nth-child(2) {
+	color: #05c4e3;
+	font-weight: 400;
+	font-size: 30px;
+}
+
+#dnsContact ul {
+	list-style-type: none;
+}
+
+h2 {
+	color: #0063a3;
+	line-height: 2;
+}
+
+li {
+	margin-left: 55px;
+	line-height: 1.8;
+}
+
+#cs img {
+	width: 300px;
+	height: 110px;
+	padding: 10px 0px 10px 340px;
+
+}
+
+#triple {
+	border-top: 6px solid #0080e6;
+	border-right: 6px solid #0080e6;
+	border-left: 6px solid #0080e6;
+	padding: 20px;
+	margin-top: 20px;
+}
+
+#triple img {
+	width: 125px;
+	height: 100px;
+	display: inline-block;
+}
+
+#theBigThree {
+	display: inline-block;
+	width: 750px;
+	margin-left: 10px;
+}
+
+#theBigThree p {
+	font-size: 16px;
+	font-weight: 100;	
+}
+
